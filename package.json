@@ -20,6 +20,6 @@
     "vue-template-compiler": "^2.6.11"
   },
     "stackblitz": {
-      "startCommand": "npm install && npm run serve"
+      "startCommand": "npm run serve"
   }
 }
